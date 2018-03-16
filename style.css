@@ -1,7 +1,6 @@
-﻿body
+body
 {
     background-color: #EEEEEE;
- 
 }
 
 #pictureme{
@@ -60,9 +59,10 @@ h1{
     font-weight:bold;
 }
 
-#main {
-    
-
+p {
+    padding-left: 25px;
+    text-align:left;
+    font-size:25px;
 }
 
 
